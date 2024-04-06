@@ -64,7 +64,7 @@ echo " 7) Desligar ou Reiniciar a maquina ?? "
 echo " 8) Sair "
 read opcao
 case $opcao in
-#DESCOMENTE AS LINHAS 69 e 70 SE PRECISAR ADICIONAR FLATPAK E SNAP
+#DESCOMENTE AS LINHAS 87 e 88 SE PRECISAR ADICIONAR FLATPAK E SNAP
 1)
 clear
 echo "Observacao: Caso precise atualizar pacotes flatpak e snap"
